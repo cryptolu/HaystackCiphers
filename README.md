@@ -1,4 +1,45 @@
-# HaystackCiphers
+# Haystack Ciphers: White-Box Countermeasures as Symmetric Encryption - supporting code
+
+Supporting code for the ASIACRYPT 2025 [paper](https://link.springer.com/chapter/10.1007/978-981-95-5096-8_11) by Alex Charlès and Aleksei Udovenko
+
+> Haystack Ciphers: White-Box Countermeasures as Symmetric Encryption
+
+Also available at [ia.cr/2025/1635](https://ia.cr/2025/1635).
+
+
+## Citation
+
+Cite paper:
+
+```bib
+@InProceedings{AC:ChaUdo25,
+  author="Charl{\`e}s, Alex and Udovenko, Aleksei",
+  editor="Hanaoka, Goichiro and Yang, Bo-Yin",
+  title="Haystack Ciphers: White-Box Countermeasures as Symmetric Encryption",
+  booktitle="Advances in Cryptology -- ASIACRYPT 2025",
+  year="2026",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="341--374",
+  isbn="978-981-95-5096-8",
+  doi = {10.1007/978-981-95-5096-8\_11},
+}
+
+```
+
+Cite code:
+
+```bib
+@software{AC:ChaUdo25code,
+  author       = {Charlès, Alex and Udovenko, Aleksei},
+  title        = {Haystack{C}iphers - Supporting code},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17078398},
+  url          = {https://doi.org/10.5281/zenodo.17078398},
+}
+```
+
 
 ## Setup
 
